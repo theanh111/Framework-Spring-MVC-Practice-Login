@@ -12,7 +12,7 @@
     <title>Login</title>
 </head>
 <body>
-<h3>Home</h3>
+<h3>Home - Login with Springframe Tags Form</h3>
 <form:form action="login" method="post" modelAttribute="login">
     <fieldset>
         <legend>Login</legend>
